@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gkaraman@cs.columbia.edu"
-  address = "Mudd 406, Data Science Institute, Columbia University, New York, 10027, USA [map](https://goo.gl/maps/CsUb6tbN69L2)"
+  address = "Mudd 406, Data Science Institute, Columbia University, New York, 10027, USA ([map](https://goo.gl/maps/CsUb6tbN69L2))"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
@@ -109,7 +109,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
