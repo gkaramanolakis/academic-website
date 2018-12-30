@@ -28,7 +28,7 @@ weight = 5
  
 +++
 
-# Αβοθτ
+# About
 
 I am a Ph.D. student in Computer Science at Columbia University, advised by Prof. [Luis Gravano](http://www.cs.columbia.edu/~gravano/) and Prof. [Daniel Hsu](http://www.cs.columbia.edu/~djhsu/). My research interests lie in the fields of Machine Learning, Information Extraction, and Natural Language Processing.  
 
