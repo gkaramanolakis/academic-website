@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Giannis Karamanolakis"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gkaraman@cs.columbia.edu"
-  address = "Mudd 406, Data Science Institute, Columbia University, New York, 10027, USA"
+  address = "Mudd 406, Data Science Institute, Columbia University, New York, 10027, USA [map](https://goo.gl/maps/CsUb6tbN69L2)"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
