@@ -19,10 +19,25 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Columbia University"
+  company_url = "https://www.cs.columbia.edu/"
+  location = "New York, NY"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """
+  
+  * Working on project: “Adaptive Information Extraction from Social Media for Actionable Inferences in Public
+Health”, advised by Prof. Luis Gravano and Prof. Daniel Hsu (pending conference submission). 
+  * Working on side Machine Learning projects (papers at DLRS @ RecSys 2018, ML4Creativity @ NIPS 2018)
+  * Actively participating in the Machine Learning Group, NLP Group, and Database Research Group.
+  """
+  
+[[experience]]
   title = "Machine Learning Engineer"
   company = "Behavioral Signals"
   company_url = "https://behavioralsignals.com/"
-  location = "Athens, Greece (remote)"
+  location = "Los Angeles, CA (working remotely from Athens, Greece)"
   date_start = "2016-04-12"
   date_end = "2017-08-10"
   description = """
