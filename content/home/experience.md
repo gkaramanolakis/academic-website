@@ -22,18 +22,22 @@ date_format = "January 2006"
   title = "Machine Learning Engineer"
   company = "Behavioral Signals"
   company_url = "https://behavioralsignals.com/"
-  location = "California"
+  location = "Athens, Greece (remote)"
   date_start = "2016-04-12"
   date_end = "2017-08-10"
-  description = """test"""
+  description = """
+  * Trained statistical models for the recognition of core emotions from conversational speech data. 
+  * Used speaker interaction patterns to predict Key Performance Indicators.
+  * Applied Active Learning and Semi-Supervised Learning for information extraction from recorded speech.
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Demokritos Center of Scientific Research"
+  company_url = "https://www.iit.demokritos.gr/cil/"
+  location = "Athens, Greece"
+  date_start = "2016-01-11"
+  date_end = "2016-28-02"
+  description = """Developed audio-based classifiers for Soundscape Event Detection and Quality Estimation."""
 
 +++
