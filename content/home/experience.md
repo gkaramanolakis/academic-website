@@ -26,13 +26,8 @@ date_format = "January 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  
-  * Working on project: “Adaptive Information Extraction from Social Media for Actionable Inferences in Public
-Health”, advised by Prof. Luis Gravano and Prof. Daniel Hsu (pending conference submission). 
-  * Working on side Machine Learning projects (papers at DLRS @ RecSys 2018, ML4Creativity @ NIPS 2018)
-  * Actively participating in the Machine Learning Group, NLP Group, and Database Research Group.
   """
-  
+
 [[experience]]
   title = "Machine Learning Engineer"
   company = "Behavioral Signals"
@@ -41,10 +36,16 @@ Health”, advised by Prof. Luis Gravano and Prof. Daniel Hsu (pending conferenc
   date_start = "2016-04-12"
   date_end = "2017-08-10"
   description = """
+  """
   
-  * Trained statistical models for the recognition of core emotions from conversational speech data. 
-  * Used speaker interaction patterns to predict Key Performance Indicators.
-  * Applied Active Learning and Semi-Supervised Learning for information extraction from recorded speech.
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon.com"
+  company_url = "https://www.amazon.com/"
+  location = "Seattle, WA"
+  date_start = "2019-05-28"
+  date_end = "2019-09-30"
+  description = """
   """
 
 [[experience]]
